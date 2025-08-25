@@ -1,3 +1,5 @@
+package curso.dio.processoseletivo;
+
 public class ProcessoSeletivo {
     public static void main(String[] args) {
             analisarCandidato(1900);
